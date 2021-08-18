@@ -1,0 +1,201 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+}
+header{
+
+background: #343a40;
+}
+nav{
+    
+width: 50%;
+    
+margin: auto;
+}
+nav ul{
+
+list-style: none;
+
+display: flex;
+
+justify-content: space-between;
+
+align-items: center;
+
+height: 73px;
+}
+nav ul li{
+
+}
+nav ul li img{
+    
+}
+nav ul li a{
+
+color: #fff;
+
+text-decoration: none;
+
+text-transform: uppercase;
+
+font-family: -webkit-pictograph;
+
+font-size: 18px;
+}
+.content{
+    background-image: url(../Images/moon.jpg);
+    height: 92.3vh;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box_1{
+
+width: 48%;
+
+display: flex;
+
+justify-content: center;
+
+margin: auto;
+
+margin-bottom: 339px;
+
+align-items: center;
+}
+
+.box_2{width: 60%;margin: auto;}
+.box_2 h1{
+    color: #fff;
+    font-size: 43px;
+    text-transform: capitalize;
+    font-family: system-ui;
+    font-weight: 500;
+}
+.box_2 p{
+
+color: #fff;
+
+margin: 15px 0px;
+
+font-family: system-ui;
+
+font-size: 15px;
+}
+.box_2 ul{
+
+list-style: none;
+
+font-family: system-ui;
+
+margin-bottom: 14px;
+}
+.box_2 ul li{
+
+margin-bottom: 7px;
+}
+.box_2 ul li a{
+
+text-decoration: none;
+
+color: #fff;
+
+margin-bottom: 10px;
+}
+.box_2 button{
+
+padding: 14px 22px;
+
+background: #0075b854;
+
+border: none;
+
+color: #fff;
+
+border-radius: 25px;
+
+text-transform: uppercase;
+
+font-size: 13px;
+}
+.form_1{
+
+width: 41%;
+
+margin: auto;
+
+display: flex;
+
+justify-content: space-evenly;
+}
+.form_2{
+    
+width: 49%;
+    
+padding: 15px 32px;
+    
+background: #41485f6b;
+}
+.form_3{
+    
+}
+.form_2 h1{
+
+color: #fff;
+
+font-size: 33px;
+
+text-transform: uppercase;
+
+text-align: center;
+
+font-family: -webkit-pictograph;
+
+margin-bottom: 6px;
+}
+.form_2 p{
+
+color: #fff;
+
+margin-bottom: 45px;
+
+font-size: 18px;
+
+text-align: center;
+
+font-family: emoji;
+}
+.form_2 input{
+
+width: 94%;
+
+margin-bottom: 22px;
+
+border: none;
+
+padding: 12px;
+}
+.form_2 input:focus{
+    outline: none;
+}
+.form_2 input[type="submit"]{
+    
+width: 100%;
+    
+padding: 11px 25px;
+    
+background: #0075b854;
+    
+color: #fff;
+    
+text-transform: uppercase;
+}
+
+
+
+
+
